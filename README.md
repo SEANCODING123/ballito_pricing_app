@@ -1,6 +1,6 @@
 # Ballito Creator Studio – Pricing Strategy Lab
 
-Interactive Streamlit app to model membership pricing, breakeven, revenue, margins, and cost curves for Ballito Creator Studio.
+Interactive Streamlit app to model **membership tiers** and **casual studio bookings** (full day, half day, 2-hour), breakeven, revenue, margins, and cost curves for Ballito Creator Studio.
 
 ## Run locally
 
